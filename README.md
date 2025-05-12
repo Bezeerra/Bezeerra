@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌎 About Me:
 🔭 I’m currently working on<br>Cybersecurity solutions at Apura Cyber Intelligence S/A, focusing on threat intelligence and incident response.<br>⚡️ Free time projects<br>I’m building an automated billing control system that processes PDF and CSV files to extract accurate financial information.<br>I’m also working on a logistics management system to control import and export processes between countries by sea and air.<br>🤝 I’m looking to collaborate on<br>Projects related to cyber threat detection, automated data processing.<br>🌱 I’m currently learning<br>Advanced data processing techniques for financial analysis and big datas.
 
 
@@ -11,13 +11,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Bezeerra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bezeerra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezeerra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bezeerra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+--> 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bezeerra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
