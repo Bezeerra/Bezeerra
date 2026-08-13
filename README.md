@@ -1,8 +1,3 @@
-# 🌎 About Me:
-🔭 I’m working on cybersecurity solutions at Apura Cyber Intelligence S/A, focusing on threat intelligence and incident response.<br>
-🤝 I’m looking to collaborate on projects related to cyber threat detection and automated data processing.<br>
-⚡️ Currently, I’m learning advanced data processing techniques for financial analysis and big data.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-bezerra-6296b7221/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20072047) 
 
